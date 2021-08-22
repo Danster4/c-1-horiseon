@@ -62,4 +62,4 @@ Repository contains multiple descriptive commit messages.
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
 Screenshot:
-<insert here>
+[![c-1-horiseon-index-screenshot-html.png](https://i.postimg.cc/1tGRGV0Y/c-1-horiseon-index-screenshot-html.png)](https://postimg.cc/njLtZzPv)
