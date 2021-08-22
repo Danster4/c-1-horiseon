@@ -12,6 +12,7 @@ https://danster4.github.io/c-1-horiseon/
 Link to GitHub repository:
 https://github.com/Danster4/c-1-horiseon
 
+
 Goals of this challenge:
 Fix website for accessibility by refactoring code.
 
